@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">Table of Contents</string>
+    <string name="home">This is the main screen of the app, where users can see their feed, notifications, and other activities.</string>
+    <string name="profile">This screen shows the user\'s profile information, such as their name, bio, and photos.</string>
+    <string name="messages">This screen shows the user\'s messages, both sent and received.</string>
+    <string name="setting">This screen allows the user to change their account settings, such as their privacy settings and notifications.</string>
+    <string name="live">This button is used to watch or broadcast live videos.</string>
+    <string name="reels">This button is used to create and watch short, looping videos.</string>
+    <string name="hashtags">This button is used to categorize posts and find other users who are interested in the same topics.</string>
+    <string name="polls">This button is used to create and vote on polls.</string>
+    <string name="stories">This button is used to share temporary posts that disappear after 24 hours.</string>
+    <string name="direct_messages">This button is used to send private messages to other users.</string>
+    <string name="groups">This button is used to create and join groups of users with shared interests.</string>
+    <string name="events">This button is used to create and attend events.</string>
+    <string name="news">This button is used to see news and updates from the people and organizations you follow.</string>
+    <string name="like">This button is used to like a post.</string>
+    <string name="share">This button is used to share a post with others.</string>
+    <string name="follow">This button is used to follow a user.</string>
+    <string name="unfollow">This button is used to unfollow a user.</string>
+    <string name="block">This button is used to block a user.</string>
+    <string name="report">This button is used to report a post or user.</string>
+    <string name="search">This button is used to search for posts, users, and groups.</string>
+    <string name="upload">This button is used to upload a post.</string>
+    <string name="edit">This button is used to edit a post.</string>
+    <string name="delete">This button is used to delete a post.</string>
+    <string name="account">This button is used to manage your account settings.</string>
+    <string name="privacy">This button is used to manage your privacy settings.</string>
+    <string name="notifications">This button is used to manage your notification settings.</string>
+    <string name="help">This button is used to get help with the app.</string>
+    <string name="contact_us">This button is used to contact the app developers.</string>
 </resources>
