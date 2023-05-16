@@ -57,87 +57,64 @@
     <color name="orange_red_500">#C3002EFF</color>
     <color name="orange_red_700">#E6001EFF</color>
     <color name="Purple">#FFBB86FC</color>
-    <color name="Pink"></color>
-    <color name="Fuchsia"></color>
 
-    <color name="Magenta"></color>
-    <color name="Red"></color>
-    <color name="Orange"></color>
-    <color name="Yellow"></color>
-    <color name="Orange"></color>
-    <color name="Amber"></color>
+    <!-- Purple -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="purple_900">#FF1B0087</color>
+    <color name="purple_1000">#FF000053</color>
 
-    <color name="Pink"></color>
-    <color name="Fuchsia"></color>
-    <color name="Magenta"></color>
-    <color name="Red"></color>
-    <color name="Orange"></color>
-    <color name="Yellow"></color>
-    <color name="Amber"></color>
-    <color name="Orange_red"></color>
-    <color name="Orange_red"></color>
-    <color name="Orange_red"></color>
-    <color name="Orange_red"></color>
-    <color name="Orange_red"></color>
-    <color name="Orange_red"></color>
-    <color name="Orange_red"></color>
+    <!-- Pink -->
+    <color name="pink_200">#FF796AFF</color>
+    <color name="pink_500">#FFA74AFF</color>
+    <color name="pink_700">#FF952DFF</color>
+    <color name="pink_900">#FF731DFF</color>
+    <color name="pink_1000">#FF510EFF</color>
 
+    <!-- Fuchsia -->
+    <color name="fuchsia_200">#FF952DFF</color>
+    <color name="fuchsia_500">#FFA74AFF</color>
+    <color name="fuchsia_700">#FF796AFF</color>
+    <color name="fuchsia_900">#FF5A5AFF</color>
+    <color name="fuchsia_1000">#FF374AFF</color>
 
+    <!-- Magenta -->
+    <color name="magenta_200">#FF631DFF</color>
+    <color name="magenta_500">#FF310EFF</color>
+    <color name="magenta_700">#FF1B00EE</color>
+    <color name="magenta_900">#FF0000CC</color>
+    <color name="magenta_1000">#FF000099</color>
 
+    <!-- Red -->
+    <color name="red_200">#FF310EFF</color>
+    <color name="red_500">#FF1B00EE</color>
+    <color name="red_700">#FF0000CC</color>
+    <color name="red_900">#FF000099</color>
+    <color name="red_1000">#FF000066</color>
 
+    <!-- Orange -->
+    <color name="orange_200">#F9000EFF</color>
+    <color name="orange_500">#FF310EFF</color>
+    <color name="orange_700">#FF1B00EE</color>
+    <color name="orange_900">#FF0000CC</color>
+    <color name="orange_1000">#FF000099</color>
 
-</resources>
+    <!-- Yellow -->
+    <color name="yellow_200">#E6001EFF</color>
+    <color name="yellow_500">#F9000EFF</color>
+    <color name="yellow_700">#FF310EFF</color>
+    <color name="yellow_900">#FF1B00EE</color>
+    <color name="yellow_1000">#FF0000CC</color>
 
-    #FF796AFF - Pink
-    #FFA74AFF - Fuchsia
-    #FF952DFF - Magenta
-    #FF631DFF - Red
-    #FF310EFF - Orange
-    #F9000EFF - Yellow
-    #E6001EFF - Amber
-    #C3002EFF - Orange-red
-    #A0003EFF - Red-orange
-    #7D004EFF - Yellow-orange
-    #5A005EFF - Orange
-    #37006EFF - Yellow-green
-    #14007EFF - Green
-    #00008EFF - Cyan
-    #00009EFF - Aqua
-    #0000AEFF - Teal
-    #0000BEFF - Blue-green
-    #0000CEFF - Cyan-blue
-    #0000DEFF - Blue
-    #0000EEFF - Violet
-    #0000FFFF - Aquamarine
-    #0014FFFF - Blue-green
-    #0028FFFF - Cyan
-    #003DFFFD - Aqua
-    #005AFFFD - Teal
-    #0079FFDD - Cyan-blue
-    #0095FFDD - Blue
-    #00BBFFBD - Violet
-    #00DDFFBD - Blue-violet
-    #14FFFFBD - Purple
-    #28FFFFBD - Fuchsia
-    #3DFFFFBD - Magenta
-    #5AFFFFBD - Red-violet
-    #79FFFFBD - Pink
-    #95FFFFBD - Purple-pink
-    #BBFFCBD - Magenta-purple
-    #DDFFCBD - Red-magenta
-    #FFFFBD00 - Yellow-green
-    #FFFFAD00 - Yellow-orange
-    #FFFF9500 - Orange
-    #FFFF7900 - Red-orange
-    #FFFF5A00 - Orange-red
-    #FFFF3700 - Yellow-red
-    #FFFF1400 - Red
-    #FFEE0000 - Orange
-    #FDDD0000 - Yellow
-    #FCC30000 - Orange-red
-    #FAB00000 - Red
-    #F97D0000 - Yellow-orange
-    #F65A0000 - Orange
-    #F3370000 - Yellow-green
-    #F0140000 - Green
-    #E6000000 - Red
+    <!-- Amber -->
+    <color name="amber_200">#C3002EFF</color>
+    <color name="amber_500">#E6001EFF</color>
+    <color name="amber_700">#F9000EFF</color>
+    <color name="amber_900">#FF310EFF</color>
+    <color name="amber_1000">#FF1B00EE</color>
+
+    <!-- Orange-red -->
+    <color name="orange_red_200">#A0003EFF</color>
+    <color name="orange_red_500">#C3002EFF</color>
+    <color name="orange_red_700">#E6001EFF</color></resources>
