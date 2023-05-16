@@ -28,7 +28,7 @@
 
     <path
         android:name="eye"
-        android:pathData="M100,60h20v20h-20z"
+        android:pathData="M100,60h2v20h-20z"
         android:fill="black"
         android:strokeLineCap="round"
         android:strokeLineJoin="round"
